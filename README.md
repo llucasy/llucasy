@@ -20,13 +20,16 @@ Desenvolvedor Front-end apaixonado por tecnologia, jogos e aprendizado contínuo
 
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=white)
 ![Next.js](https://img.shields.io/badge/-Next.js-000?style=flat&logo=next.js)
-![SvelteKit](https://img.shields.io/badge/-SvelteKit-FF3E00?style=flat&logo=svelte)
+![SvelteKit](https://img.shields.io/badge/-SvelteKit-FFF?style=flat&logo=svelte)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript)
 ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?style=flat&logo=tailwind-css)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
 ![Vercel](https://img.shields.io/badge/-Vercel-000000?style=flat&logo=vercel)
-![Supabase](https://img.shields.io/badge/-Supabase-3ECF8E?style=flat&logo=supabase)
+![Supabase](https://img.shields.io/badge/-Supabase-FFF?style=flat&logo=supabase)
+![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
+![GCP](https://img.shields.io/badge/-GCP-4285F4?style=flat&logo=google-cloud&logoColor=white)
+![Azure](https://img.shields.io/badge/-Azure-0078D4?style=flat&logo=microsoft-azure&logoColor=white)
 
 ---
 
